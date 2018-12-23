@@ -1,0 +1,73 @@
+/* Classes */
+.myiiapi
+{
+    width: 30em;
+    position: fixed;
+    bottom: 0;
+    float: right;
+    border: solid 2px #DDDDDD;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    /*left: 0;*/
+}
+.myiiapi-item
+{
+    margin: 1em;
+    padding: 0.6em;
+    border: solid 0.5px #C9E0ED;
+}
+.myiiapi-item p
+{
+    font-size: 1.3em;
+    padding: 0.4em;
+}
+.myiiapi-item table
+{
+    margin-bottom:0.6em;
+    margin-top:0.8em;
+}
+.myiiapi-bar
+{
+    height: 1em;
+    padding-left: 1em;
+    padding-right: 0.5em;
+}
+.myiiapi-header
+{
+/*    border: solid 0.5px #C9E0ED;*/
+    width: 100%;
+    background: none repeat scroll 0 0 #EEEEEE;
+    border-bottom: 1px solid #DDDDDD;
+/*    padding-top: 0.5em;*/
+}
+.myiiapi-content
+{
+    height: 20em;
+    overflow: auto;
+    background: white;
+    display: none;
+}
+.myiiapi-item-header
+{
+    font-size: 1.5em;
+}
+/* Ids */
+#myiiapi-bar-toggle
+{
+    float: right;
+    padding-right: 1em;
+}
+#myiiapi-search-button
+{
+    width: 30%;
+    float: right;
+}
+#myiiapi-search-text
+{
+    width: 65%;
+}
+#myiiapi-form
+{
+    margin: 0.5em 1em 0.2em;
+}
+

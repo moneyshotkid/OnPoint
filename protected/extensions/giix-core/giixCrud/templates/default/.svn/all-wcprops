@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xoompi.com/!svn/ver/234/protected/extensions/giix-core/giixCrud/templates/default
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/view.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/_form.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/update.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/controller.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/create.php
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/_search.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/admin.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/xoompi.com/!svn/ver/333/protected/extensions/Swift/classes/Swift/Encoder
+END
+QpEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Encoder/QpEncoder.php
+END
+Rfc2231Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Encoder/Rfc2231Encoder.php
+END
+Base64Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Encoder/Base64Encoder.php
+END

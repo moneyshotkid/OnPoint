@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/xoompi.com/!svn/ver/333/protected/extensions/Swift/classes/Swift
+END
+EmbeddedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/EmbeddedFile.php
+END
+Transport.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Transport.php
+END
+ReplacementFilterFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/ReplacementFilterFactory.php
+END
+DependencyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/DependencyException.php
+END
+SmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/SmtpTransport.php
+END
+OutputByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/OutputByteStream.php
+END
+Preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Preferences.php
+END
+LoadBalancedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/LoadBalancedTransport.php
+END
+CharacterReaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/CharacterReaderFactory.php
+END
+TransportException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/TransportException.php
+END
+KeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/KeyCache.php
+END
+MimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/MimePart.php
+END
+CharacterReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/CharacterReader.php
+END
+DependencyContainer.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/DependencyContainer.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Image.php
+END
+FailoverTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/FailoverTransport.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Message.php
+END
+Encoding.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Encoding.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Attachment.php
+END
+FileStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/FileStream.php
+END
+InputByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/InputByteStream.php
+END
+MailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/MailTransport.php
+END
+StreamFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/StreamFilter.php
+END
+CharacterStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/CharacterStream.php
+END
+Filterable.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Filterable.php
+END
+Mailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mailer.php
+END
+SendmailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/SendmailTransport.php
+END
+SwiftException.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/SwiftException.php
+END
+Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Encoder.php
+END
+RfcComplianceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/RfcComplianceException.php
+END
+IoException.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/IoException.php
+END

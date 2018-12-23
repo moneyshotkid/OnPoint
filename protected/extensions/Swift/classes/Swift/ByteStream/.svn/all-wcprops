@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/xoompi.com/!svn/ver/333/protected/extensions/Swift/classes/Swift/ByteStream
+END
+AbstractFilterableInputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/ByteStream/AbstractFilterableInputStream.php
+END
+ArrayByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/ByteStream/ArrayByteStream.php
+END
+FileByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/ByteStream/FileByteStream.php
+END

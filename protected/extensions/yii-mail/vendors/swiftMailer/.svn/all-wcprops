@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/xoompi.com/!svn/ver/333/protected/extensions/yii-mail/vendors/swiftMailer
+END
+mime_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/mime_types.php
+END
+swift_required.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/swift_required.php
+END
+swift_init.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/swift_init.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/preferences.php
+END
+swift_required_pear.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/swift_required_pear.php
+END

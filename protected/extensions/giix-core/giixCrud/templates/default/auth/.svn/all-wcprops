@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xoompi.com/!svn/ver/234/protected/extensions/giix-core/giixCrud/templates/default/auth
+END
+auth_filter_default.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/auth/auth_filter_default.php
+END
+auth_yum.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/auth/auth_yum.php
+END
+auth_filter_strict.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/auth/auth_filter_strict.php
+END
+auth_none.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/xoompi.com/!svn/ver/64/protected/extensions/giix-core/giixCrud/templates/default/auth/auth_none.php
+END

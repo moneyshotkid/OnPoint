@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/xoompi.com/!svn/ver/333/protected/extensions/Swift/classes/Swift/Mime/Headers
+END
+AbstractHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Headers/AbstractHeader.php
+END
+UnstructuredHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Headers/UnstructuredHeader.php
+END
+IdentificationHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Headers/IdentificationHeader.php
+END
+MailboxHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Headers/MailboxHeader.php
+END
+ParameterizedHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Headers/ParameterizedHeader.php
+END
+PathHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Headers/PathHeader.php
+END
+DateHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Headers/DateHeader.php
+END

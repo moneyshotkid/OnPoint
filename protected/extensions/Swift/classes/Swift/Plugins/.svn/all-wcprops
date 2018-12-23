@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/xoompi.com/!svn/ver/333/protected/extensions/Swift/classes/Swift/Plugins
+END
+BandwidthMonitorPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/BandwidthMonitorPlugin.php
+END
+AntiFloodPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/AntiFloodPlugin.php
+END
+LoggerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/LoggerPlugin.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/Logger.php
+END
+Sleeper.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/Sleeper.php
+END
+Timer.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/Timer.php
+END
+DecoratorPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/DecoratorPlugin.php
+END
+ReporterPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/ReporterPlugin.php
+END
+Reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/Reporter.php
+END
+PopBeforeSmtpPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/PopBeforeSmtpPlugin.php
+END
+ThrottlerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Plugins/ThrottlerPlugin.php
+END

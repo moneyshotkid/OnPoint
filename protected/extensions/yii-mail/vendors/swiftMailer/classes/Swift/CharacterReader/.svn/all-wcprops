@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/xoompi.com/!svn/ver/333/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/CharacterReader
+END
+Utf8Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/CharacterReader/Utf8Reader.php
+END
+GenericFixedWidthReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/CharacterReader/GenericFixedWidthReader.php
+END
+UsAsciiReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/CharacterReader/UsAsciiReader.php
+END

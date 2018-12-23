@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/xoompi.com/!svn/ver/333/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Encoder
+END
+QpEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Encoder/QpEncoder.php
+END
+Rfc2231Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Encoder/Rfc2231Encoder.php
+END
+Base64Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/xoompi.com/!svn/ver/303/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Encoder/Base64Encoder.php
+END

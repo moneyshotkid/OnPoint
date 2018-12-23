@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xoompi.com/!svn/ver/333/protected/extensions/Swift/classes/Swift/Mime
+END
+EmbeddedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/EmbeddedFile.php
+END
+SimpleHeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/SimpleHeaderFactory.php
+END
+SimpleMimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/SimpleMimeEntity.php
+END
+SimpleMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/SimpleMessage.php
+END
+EncodingObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/EncodingObserver.php
+END
+CharsetObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/CharsetObserver.php
+END
+HeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/HeaderSet.php
+END
+ParameterizedHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/ParameterizedHeader.php
+END
+ContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/ContentEncoder.php
+END
+MimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/MimePart.php
+END
+SimpleHeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/SimpleHeaderSet.php
+END
+HeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/HeaderFactory.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Message.php
+END
+MimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/MimeEntity.php
+END
+HeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/HeaderEncoder.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Header.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/Attachment.php
+END

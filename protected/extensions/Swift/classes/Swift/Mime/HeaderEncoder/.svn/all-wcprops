@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xoompi.com/!svn/ver/333/protected/extensions/Swift/classes/Swift/Mime/HeaderEncoder
+END
+QpHeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php
+END
+Base64HeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php
+END

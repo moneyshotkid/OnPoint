@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xoompi.com/!svn/ver/333/protected/extensions/Swift/classes/Swift/StreamFilters
+END
+StringReplacementFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/StreamFilters/StringReplacementFilter.php
+END
+StringReplacementFilterFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/StreamFilters/StringReplacementFilterFactory.php
+END
+ByteArrayReplacementFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xoompi.com/!svn/ver/303/protected/extensions/Swift/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php
+END

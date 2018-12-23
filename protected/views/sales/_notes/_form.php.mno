@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="../../../css/default/easyui.css,../../../css/form.css,../../../css/styles.css,../../../css/structure.css,../../../css/theme.css" />
+	<infoitem key="MM_css_exclude" value="" />
+</info>
