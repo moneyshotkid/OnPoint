@@ -121,10 +121,10 @@ return array(
 		// uncomment the following to use a MySQL database
 	
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=k11',
+			'connectionString' => 'mysql:host=localhost;dbname=',
 			'emulatePrepare' => true,
-			'username' => 'root',//cannanick
-			'password' => '',//todiefor777
+			'username' => 'root',
+			'password' => '',
 			'charset' => 'utf8',
 		),
         'authManager'=>array(
